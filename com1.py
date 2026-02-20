@@ -7,3 +7,4 @@ for i in range(10):
 print('абабаба')
 for i in range(2):
     print(i)
+print('bae')
